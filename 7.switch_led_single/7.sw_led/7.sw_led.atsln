@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "7.sw_led", "7.sw_led.cproj", "{60884DC3-33EF-47EA-8F1E-708CC8299961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60884DC3-33EF-47EA-8F1E-708CC8299961}.Debug|AVR.ActiveCfg = Debug|AVR
+		{60884DC3-33EF-47EA-8F1E-708CC8299961}.Debug|AVR.Build.0 = Debug|AVR
+		{60884DC3-33EF-47EA-8F1E-708CC8299961}.Release|AVR.ActiveCfg = Release|AVR
+		{60884DC3-33EF-47EA-8F1E-708CC8299961}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
